@@ -1,8 +1,8 @@
-# [Your Name]'s Data Science Portfolio
+# Ajit Singhs Data Science Portfolio
 
 ## About Me
 
-I am a dedicated data science enthusiast with a strong foundation in SQL, Python, and various data analysis tools. Currently pursuing [your degree] at [your university], I am passionate about leveraging data to derive meaningful insights and solve real-world problems.
+I am a dedicated data science enthusiast with a strong foundation in SQL, Python, and various data analysis tools. Currently pursuing B.Tech at Mumbai University I am passionate about leveraging data to derive meaningful insights and solve real-world problems.
 
 ## Skills
 
@@ -34,40 +34,6 @@ I am a dedicated data science enthusiast with a strong foundation in SQL, Python
 - **Excel:**
   - Advanced skills in Excel for data cleaning, analysis, and visualization.
   - Proficient in using Excel functions and formulas for various data manipulation tasks.
-
-## Projects
-
-### 1. [Project Name 1]
-
-Brief description of the project, highlighting the skills used. What was the problem you aimed to solve? What techniques/tools did you use? What were the key findings?
-
-* [Link to the project repo]
-* [Link to the live/demo application, if applicable]
-
-### 2. [Project Name 2]
-
-Another project description, emphasizing your role and the impact of your work. Feel free to include snippets of code or visualizations.
-
-* [Link to the project repo]
-* [Link to the live/demo application, if applicable]
-
-## Education
-
-- [Your University], [Your Degree], [Year Started] - [Expected Graduation Year]
-
-## Contact
-
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email Address]
-- Portfolio: [Link to Your Portfolio, if applicable]
-
-## Get in Touch
-
-I'm always open to collaboration and learning opportunities. Feel free to reach out if you have any questions, suggestions, or just want to connect!
-
----
-Feel free to customize the template further based on your specific experiences, projects, and achievements. Adding visuals or GIFs related to your projects can make your GitHub profile more engaging.
-
 
 
 
